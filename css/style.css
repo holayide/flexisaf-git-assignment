@@ -1,0 +1,43 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+}
+#container {
+    height: 100vh;
+    padding-top: 80px;
+    text-align: center;
+}
+#head {
+    width: 50%;
+    margin: auto;
+    line-height: 2rem;
+    letter-spacing: 2;
+}
+#header h1{
+    margin-bottom: 50px;
+}
+h3 {
+    margin: 20px 0;
+    font-size: 18px;
+    text-decoration: underline;
+}
+p {
+    font-size: 14px;
+    padding-bottom: 20px;
+    /* text-align: left; */
+}
+.section_1 {
+    color: green;
+}
+.section_2 {
+    color: red;
+}
+.section_3 {
+    padding-bottom: 30px;
+    color: blue;
+}
